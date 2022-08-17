@@ -1,6 +1,6 @@
 # Character Shifts in Harry Potter Fanfiction
 
-This repository provides scripts and data to accompany the Litlab Pamphlet ["Character Shifts in Harry Potter Fanfiction"] (https://www.digitalhumanitiescooperation.de/pamphlet-10-character-shifts-in-harry-potter-fanfiction/) (2022). 
+This repository provides scripts and data to accompany the Litlab Pamphlet ["Character Shifts in Harry Potter Fanfiction"](https://www.digitalhumanitiescooperation.de/pamphlet-10-character-shifts-in-harry-potter-fanfiction/) (2022). 
 
 - `data/entities`
   * `entities.csv`: dictionary of entity names, all variations
