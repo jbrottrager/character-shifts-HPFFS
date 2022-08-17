@@ -8,17 +8,17 @@ This repository provides scripts and data to accompany the Litlab Pamphlet ["Cha
 - `results`
   * `cooccurrences` 
     * `cooccurring_words`
-  * `ffs`: words that occur in sentences shared by two characters in fanfics
-  * `originals`: words that occur in sentences sharted by two characters in the originals
-  * `cooccurrences_ffs_count_df_sentences.csv`: adjacency matrix of characters with num of sentences they share (ffs)
-  * `cooccurrences_ffs_rel_df_sentences.csv`: adjacency matrix of characters with rel num of sentences they share (ffs)
-  * `cooccurrences_originals_count_df_sentences.csv`: adjacency matrix of characters with num of sentences they share (originals)
-  * `cooccurrences_originals_rel_df_sentences.csv`: adjacency matrix of characters with rel num of sentences they share (originals)
-- `freq_names_ffs.csv`: frequency of entity names in each fanfic + relative frequency over all fanfics
-- `freq_names_originals.csv`: frequency of entity names in each original novel + relative frequency over all novels
+      * `ffs`: words that occur in sentences shared by two characters in fanfics
+      * `originals`: words that occur in sentences sharted by two characters in the originals
+    * `cooccurrences_ffs_count_df_sentences.csv`: adjacency matrix of characters with num of sentences they share (ffs)
+    * `cooccurrences_ffs_rel_df_sentences.csv`: adjacency matrix of characters with rel num of sentences they share (ffs)
+    * `cooccurrences_originals_count_df_sentences.csv`: adjacency matrix of characters with num of sentences they share (originals)
+    * `cooccurrences_originals_rel_df_sentences.csv`: adjacency matrix of characters with rel num of sentences they share (originals)
+    * `freq_names_ffs.csv`: frequency of entity names in each fanfic + relative frequency over all fanfics
+    * `freq_names_originals.csv`: frequency of entity names in each original novel + relative frequency over all novels
 - `vector_models`
-- `modelHPFFsD_vectors.kv`: best vector model for fanfics
-- `modelHPoriginalsD_vectors.kv`: best vector model for the originals
+  * `modelHPFFsD_vectors.kv`: best vector model for fanfics
+  * `modelHPoriginalsD_vectors.kv`: best vector model for the originals
 - `scripts`
   * `01_generaliseEntities.ipynb`
   * `02_characterCooccurrences.ipynb`
