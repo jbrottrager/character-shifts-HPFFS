@@ -22,11 +22,11 @@ This repository provides scripts and data to accompany the Litlab Pamphlet ["Cha
 - `scripts`
   * `01_generaliseEntities.ipynb`: replacing name variations with an entity name
   * `02_characterCooccurrences.ipynb`: finding co-occurrences of characters in sentences
-  * `03_checkCharacterNames.ipynb`: calculating frequency distributions for entity names + Figures 4.1 - 4.2
+  * `03_checkCharacterNames.ipynb`: calculating frequency distributions for entity names + Figures 4.1-4.2
   * `04_freqDist.ipynb`: identifying words that occur in sentences shared by two characters
   * `05_Word2Vec.ipynb`: creating wor2vec models
-  * `06_modelEvaluation.ipynb`: evaluating word2vec models + Figures 6.8 - 6.9
-  * `07_shiftsWithResiduals.ipynb`: comparing frequency of character pairings with residuals + Figures 5.3 - 5.6
+  * `06_modelEvaluation.ipynb`: evaluating word2vec models + Figures 6.8-6.9
+  * `07_shiftsWithResiduals.ipynb`: comparing frequency of character pairings with residuals + Figures 5.3-5.6
   * `08_countFrequenciesAll.ipynb`: calculating frequencies for emotion words
   * `09_BAWLcluster.ipynb`: clustering emotion words in vector models
-  * `10_emotionalProfiles.ipynb`: creating emotional profiles + Figures 6.10 - 6.15
+  * `10_emotionalProfiles.ipynb`: creating emotional profiles + Figures 6.10-6.15
