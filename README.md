@@ -7,7 +7,7 @@ This repository provides scripts and data to accompany the Litlab Pamphlet ["Cha
   * `full_names.csv`: dictionary of entity names, first + second name
 - `results`
   * `cooccurrences` 
-  * `cooccurring_words`
+    * `cooccurring_words`
   * `ffs`: words that occur in sentences shared by two characters in fanfics
   * `originals`: words that occur in sentences sharted by two characters in the originals
   * `cooccurrences_ffs_count_df_sentences.csv`: adjacency matrix of characters with num of sentences they share (ffs)
